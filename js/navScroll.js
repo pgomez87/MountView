@@ -3,7 +3,7 @@ const sectionOne = document.querySelector('.home-intro');
 const aNavs = document.querySelectorAll('#a-nav')
 
 const sectionOneOptions = {
-    rootMargin: "-550px 0px 0px 0px"
+    rootMargin: "-600px 0px 0px 0px"
 }
 
 
